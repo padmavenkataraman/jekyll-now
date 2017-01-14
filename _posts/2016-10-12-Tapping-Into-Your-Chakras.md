@@ -26,3 +26,5 @@ Unknown potential, made inaccessible by my shields.
 Breathe in, open up - take down these fences,
 
 I belong everywhere, pure spirit and senses.
+
+![Tapping into your Chakras](/images/chakra.jpg)
