@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! Thank you for visiting my blog! 
 
-### More Information
+I'm Padma and I study law at NLU Delhi, India. I've always enjoyed drawing and recently, I've been forcing myself to draw more often. I've also been trying out some digital art. Hoping to improve a lot in the years to come. 
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hope you like my work :D
